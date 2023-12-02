@@ -1,7 +1,5 @@
 {
-  "name": "@minimal/material-kit-react",
-  "author": "minimals.cc",
-  "licence": "MIT",
+  "name": "my-minimalist-app",
   "version": "1.8.0",
   "private": false,
   "scripts": {
