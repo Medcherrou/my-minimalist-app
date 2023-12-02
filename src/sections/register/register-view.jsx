@@ -27,10 +27,7 @@ const router = useRouter();
 const [showPassword, setShowPassword] = useState(false);
 
 const handleSignup = () => {
-// Handle signup logic here
-// You may want to make an API call to register the user
-// Example: axios.post('/api/signup', { username, email, password })
-router.push('/'); // Redirect to the login page after signup
+router.push('/'); 
 };
 
 const renderForm = (
